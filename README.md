@@ -37,7 +37,6 @@
 - React Router
 - Sass
 - Restful API
-- Git
 
 <br>
 
