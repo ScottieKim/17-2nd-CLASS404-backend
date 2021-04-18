@@ -45,10 +45,7 @@
 - Django
 - Python
 - MySQL
-- Bcrypt, JWT
 - AQueryTool
-- Git & GitHub
-- AWS EC2, RDS
 
 <br>
 <br>
